@@ -1,0 +1,14 @@
+@media only screen and (max-width: 900px) {
+  .menu{
+    width: 80%;
+  }
+  .head{
+    width: 80%;
+  }
+  .left {
+    display: none;
+  }
+  .mid{
+    width: 80%;
+  }
+}
